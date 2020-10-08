@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1521634280 source:d:\0.learningresources\12.ltnc\codeinclass\week06\draw.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<thread>
+
+1521634278 source:d:\0.learningresources\12.ltnc\codeinclass\week06\hangman3.0.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<thread>
+	<chrono>
+	"draw.h"
+	"utility.h"
+
+1521634280 d:\0.learningresources\12.ltnc\codeinclass\week06\draw.h
+	<string>
+
+1521634280 d:\0.learningresources\12.ltnc\codeinclass\week06\utility.h
+	<string>
+
+1521634280 source:d:\0.learningresources\12.ltnc\codeinclass\week06\utility.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1590222041 source:c:\users\nguye\desktop\1.tl_duc\c++\ltnc\week06\draw.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<thread>
+	<Windows.h>
+
+1590228477 source:c:\users\nguye\desktop\1.tl_duc\c++\ltnc\week06\hangman3.0.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<thread>
+	<chrono>
+	<Windows.h>
+	"draw.h"
+	"utility.h"
+
+1590196723 c:\users\nguye\desktop\1.tl_duc\c++\ltnc\week06\draw.h
+	<string>
+
+1521634280 c:\users\nguye\desktop\1.tl_duc\c++\ltnc\week06\utility.h
+	<string>
+
+1590137930 source:c:\users\nguye\desktop\1.tl_duc\c++\ltnc\week06\utility.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1590473001 source:c:\users\nguye\desktop\1.tl_duc\c++\ltnc\btl.ltnc.18020351\draw.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<thread>
+	<Windows.h>
+
+1590464587 source:c:\users\nguye\desktop\1.tl_duc\c++\ltnc\btl.ltnc.18020351\utility.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1590474723 source:c:\users\nguye\desktop\1.tl_duc\c++\ltnc\btl.ltnc.18020351\hangman3.0.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<vector>
+	<algorithm>
+	<thread>
+	<chrono>
+	<Windows.h>
+	"draw.h"
+	"utility.h"
+
+1590461892 c:\users\nguye\desktop\1.tl_duc\c++\ltnc\btl.ltnc.18020351\draw.h
+	<string>
+
+1521634280 c:\users\nguye\desktop\1.tl_duc\c++\ltnc\btl.ltnc.18020351\utility.h
+	<string>
+

@@ -1,0 +1,17 @@
+Black
+Blue
+Brown
+Color
+Colorful
+Dark
+Green
+Grey
+Light
+Orange
+Paint
+Pink
+Purple
+Red
+Shade
+White
+Yellow
